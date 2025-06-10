@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Kira",
+        "boleto": "boleto 1",
+        "numeros": [
+            3,
+            4,
+            6,
+            3,
+            8,
+            5
+        ]
+    }
+]
